@@ -1,3 +1,5 @@
+package BaiThucHanh2101.src;
+
 import java.util.Scanner;
 
 public class PhuongTrinhbac2 {
